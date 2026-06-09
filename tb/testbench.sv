@@ -4,7 +4,7 @@
 //		The module is used to test the Bin to BCD Converter.
 //		The test was conducted in ModelSim 10.6d.
 //		To verify the correct operation of the Bin to BCD Converter module, it's necessary to display signal waveforms.
-//		The console displays messages about the in_valid of test and errors;
+//		The console displays messages about the start of test and errors;
 //		Finally, a success/failure message is displayed, along with the number of errors, if any.
 //
 //=====================================================================================

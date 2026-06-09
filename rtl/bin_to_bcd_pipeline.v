@@ -1,5 +1,5 @@
 //=====================================================================================
-//			Pipelined Bin to BCD Converter  Module
+//			Pipelined Bin to BCD Converter Module
 //
 //			Parameters:
 //				INPUT_WIDTH - input (binary) data width
